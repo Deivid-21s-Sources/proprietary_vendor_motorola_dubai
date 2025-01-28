@@ -415,5 +415,4 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND \
     HotwordEnrollmentXGoogleHEXAGON_WIDEBAND \
-    MotorolaSettingsProvider \
     com.android.hotwordenrollment.common.util
